@@ -1,0 +1,12 @@
+# ignore all node modules
+node_modules/
+# but not the ones that I put there
+!node_modules/shared/
+
+# ignore my build artifacts
+dist
+.next
+
+# and possibly development ones
+*.log
+*.private.*

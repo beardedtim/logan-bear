@@ -1,0 +1,11 @@
+:root {
+  --spacing: 0.5rem;
+  --black: #252422;
+  --white: #f2f5ea;
+  --primary-color: #2978a0;
+  --secondary-color: #f9a03f;
+  --warn-color: #e3170a;
+  --header-font: 'Amatic SC', cursive;
+  --body-font: 'Andika', sans-serif;
+  --base-text-size: 0.625rem;
+}
